@@ -1,4 +1,6 @@
 
+<img src="./aalfons.svg" alt="Aalfons Logo" height="3em" />
+
 # ![Aalfons Logo](./aalfons.svg)
 
 # The Aalfons Font Family

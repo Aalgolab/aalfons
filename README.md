@@ -7,7 +7,7 @@ The Aalfons font family is based on the STIX font family and provides a range of
 
 In the mid-1990s, Arie de Ruiter, then head of the Information Technology Development department at Elsevier Science, in the STI Pub group—a loose coalition of representatives from the American Chemical Society (ACS), the American Institute of Physics (AIP), the American Mathematical Society (AMS), the American Physical Society (APS), Elsevier, and the Institute of Electrical and Electronics Engineers (IEEE)—proposed the development of a set of web fonts. These Unicode-based fonts were intended to include all alphabets, symbols, and characters commonly used in scientific papers. Furthermore, these fonts were to be made freely available worldwide to scientists, students, and all interested parties.
 
-De Ruiter proposed naming these fonts "Scientific and Technical Information eXchange Fonts," or more simply, "STIX Fonts." The release of the STIX Fonts allowed de Ruiter's vision to be realized, without which the programming language 􊨖lgola would not have been possible.
+De Ruiter proposed naming these fonts "Scientific and Technical Information eXchange Fonts," or more simply, "STIX Fonts." The release of the STIX Fonts allowed de Ruiter's vision to be realized, without which the programming language Aalgola would not have been possible.
 
 ## Aalfons’ Extensions
 
@@ -22,7 +22,7 @@ As mentioned earlier, certain characters are offered in dictation-like variants.
 In Aalgola, all variables are automatically rendered in italics, which makes the italicized Unicode letters redundant. However, upright letters are necessary for the representation of units. Therefore, in Aalfons, the letters of the Latin alphabet are redefined so that they cannot be confused with the standard italicized letters, either visually or in encoding.
 
 
-<code>
+<code style="font-family: Aalfons, serif; ">
     ¶ Unit of measurement.
     <i>m</i> :← 3 m                      
     ¶ Complex number.
@@ -33,7 +33,7 @@ In Aalgola, all variables are automatically rendered in italics, which makes the
 
 To ensure that Aalgola sources can also be used in simple Unicode editors, all control characters used in Aalgola are represented as (invisible) characters. Furthermore, particularly any character combinations that have not yet been defined in the STIX font are supplemented.
 
-Special mention should be made of the ⌘Quote{Double-A}, which allows (brand) names like Aalgola to be displayed correctly.
+Special mention should be made of the “Double-A”, which allows (brand) names like Aalgola to be displayed correctly.
 
 ## Usage Conditions
 

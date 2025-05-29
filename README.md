@@ -1,4 +1,6 @@
 
+# ![Aalfons Logo](./aalfons.svg)
+
 # The Aalfons Font Family
 
 The Aalfons font family is based on the STIX font family and provides a range of fonts that enable the representation of all Aalgola sources. In addition to the standard font variants such as _bold_, _italic_, and _bold-italic_, there are fonts that allow for special representations of certain text fragments. For example, there is a font in which the letters used for hexadecimal digits are rendered identically to the decimal digits.

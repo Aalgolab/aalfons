@@ -11,7 +11,7 @@ De Ruiter proposed naming these fonts "Scientific and Technical Information eXch
 
 ## Aalfons’ Extensions
 
-Building upon the STIX Fonts, the 􊨖lfons font family is now being implemented. Essentially, this involves additions that either encode or display existing characters differently.
+Building upon the STIX Fonts, the Aalfons font family is now being implemented. Essentially, this involves additions that either encode or display existing characters differently.
 
 ### Display Variants
 
@@ -22,12 +22,12 @@ As mentioned earlier, certain characters are offered in dictation-like variants.
 In Aalgola, all variables are automatically rendered in italics, which makes the italicized Unicode letters redundant. However, upright letters are necessary for the representation of units. Therefore, in Aalfons, the letters of the Latin alphabet are redefined so that they cannot be confused with the standard italicized letters, either visually or in encoding.
 
 
-<code style="font-family: Aalfons, serif; ">
-    ¶ Unit of measurement.
-    <i>m</i> :← 3 m                      
-    ¶ Complex number.
-    <i>c</i> :← <i>a</i> + <i>b</i> i    
-</code>
+<p style="font-family: Aalfons, serif; ">
+    ¶ Unit of measurement.<br>
+    <i>m</i> :← 3 m<br>                      
+    ¶ Complex number.<br>
+    <i>c</i> :← <i>a</i> + <i>b</i> i<br>
+</p>
 
 ### Additions
 

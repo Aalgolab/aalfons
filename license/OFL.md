@@ -1,11 +1,10 @@
 
-Copyright (c) 2001-2021 _The STIX Fonts Project Authors_ (https://github.com/stipub/stixfonts), 
-with Reserved Font Name "_TM Math_". 
+Copyright (c) 2001-2021 _The STIX Fonts Project Authors_ (https://github.com/stipub/stixfonts),  
+with Reserved Font Name "_TM Math_".  
 STIX Fonts™ is a trademark of The Institute of Electrical and Electronics Engineers, Inc.
 
-Copyright (c) 2011-2025, _Aalgolab GmbH_ (https://aalgolab.com),
-with Reserved Font Name _Aalfons_.
-
+Copyright (c) 2011-2025, _Aalgolab GmbH_ (https://aalgolab.com),  
+with Reserved Font Name _Aalfons_.  
 &nbsp;
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  

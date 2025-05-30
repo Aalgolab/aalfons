@@ -5,7 +5,7 @@ The choice of the right font is crucial for readability and understanding in man
 
 For program code, a clearly readable font that ensures a good distinction between characters is essential to avoid errors and to intuitively grasp the structure of the code. Especially in more complex programs, sans-serif fonts can lead to confusion, as the visual differences between characters like “1” and “l” or “O” and “0” are difficult to discern. Serif fonts, on the other hand, provide better readability through their additional strokes, helping to make these distinctions clearer and quicker to identify.
 
-# ![Aalgola Example](./aalgola-example.svg)
+# ![Aalgola Example](./aalgola-example-1.svg)
 
 Similarly, in mathematical expressions and formulas, where precise representation of symbols and characters is crucial, a specially designed font like Aalfons ensures that mathematical symbols, operators, and numbers are displayed exactly as required by scientific notation. This guarantees not only a clear visual representation but also the correct interpretation of the formulas by the reader.
 
@@ -34,12 +34,7 @@ As mentioned earlier, certain characters are offered in mono-spaced variants. Th
 In Aalgola, all variables are automatically rendered in italics, which makes the italicized Unicode letters redundant. However, upright letters are necessary for the representation of units. Therefore, in Aalfons, the letters of the Latin alphabet are redefined so that they cannot be confused with the standard italicized letters, either visually or in encoding.
 
 
-<p style="font-family: Aalfons, serif; ">
-    ¶ Unit of measurement.<br>
-    <i>m</i> :← 3 m<br>                      
-    ¶ Complex number.<br>
-    <i>c</i> :← <i>a</i> + <i>b</i> i<br>
-</p>
+# ![Aalgola Example](./aalgola-example-2.svg)
 
 ### Additions
 

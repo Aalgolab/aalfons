@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-762.4987 778.6035 343.99866 186" width="343.99866" height="186">
+  <defs/>
+  <g id="Canvas_1" stroke-dasharray="none" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-762.4987" y="778.6035" width="343.99866" height="186"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_589">
+        <rect x="-761.9987" y="779.1035" width="342.99866" height="185" fill="#62ae8b" fill-opacity=".10371908"/>
+        <rect x="-761.9987" y="779.1035" width="342.99866" height="185" stroke="#62ae8b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-756.9987 784.1035)" fill="black">
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="12" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="12" xml:space="preserve">¶ Unit of measurement.</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="37" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="37" xml:space="preserve">m</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="37" xml:space="preserve"> :</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="37" xml:space="preserve">←</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="37" xml:space="preserve"> 3 m</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="77" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="77" xml:space="preserve">¶ Complex number.</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="102" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="102" xml:space="preserve">c</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="102" xml:space="preserve"> :</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="102" xml:space="preserve">←</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="102" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="102" xml:space="preserve">a</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="102" xml:space="preserve"> + </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="102" xml:space="preserve">b</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="102" xml:space="preserve"> i</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="142" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="142" xml:space="preserve">¶ Vacuum Electric Permittivity.</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" x="0" y="167" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="167" xml:space="preserve">ε₀</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="167" xml:space="preserve"> :← 8.854 187 818 8 (14) × 10⁻¹² 􊀅⋅􊀦⁻¹</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-762.4987 622.5867 343.99866 152.75977" width="343.99866" height="152.75977">
+  <defs/>
+  <g id="Canvas_1" stroke-dasharray="none" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-762.4987" y="622.5867" width="343.99866" height="152.75977"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_588">
+        <rect x="-761.9987" y="623.0867" width="342.99866" height="151.75977" fill="#62ae8b" fill-opacity=".10371908"/>
+        <rect x="-761.9987" y="623.0867" width="342.99866" height="151.75977" stroke="#62ae8b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-756.9987 628.0867)" fill="black">
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="17" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-weight="bold" font-size="16" fill="black" y="17" xml:space="preserve">function</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="17" xml:space="preserve"> isPrime(</tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="17" xml:space="preserve">x</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="17" xml:space="preserve"> : ℕ) → 𝔹 </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="17" xml:space="preserve">⁌</tspan>
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="37.43994" xml:space="preserve">                </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="37.43994" xml:space="preserve">Effective, but not particularly efficient, </tspan>
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="57.43994" xml:space="preserve">                </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="57.43994" xml:space="preserve">prime number test.</tspan>
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="82.43994" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="#62ae8b" y="82.43994" xml:space="preserve">⁍</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="82.43994" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-weight="bold" font-size="16" fill="black" y="82.43994" xml:space="preserve">is</tspan>
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="107.87988" xml:space="preserve">                </tspan>
+          <tspan font-family="Aalfons" font-weight="bold" font-size="16" fill="black" y="107.87988" xml:space="preserve">return</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve"> 2</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">∤</tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="107.87988" xml:space="preserve">x</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">⩑</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">∄</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">(</tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="107.87988" xml:space="preserve">k</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">∈</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve"> </tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">{</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">3, 5, …, ⌊√</tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="107.87988" xml:space="preserve">x</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">⌋}) </tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="107.87988" xml:space="preserve">x</tspan>
+          <tspan font-family="Aalfons" font-size="16" fill="black" y="107.87988" xml:space="preserve">∣</tspan>
+          <tspan font-family="Aalfons" font-style="italic" font-size="16" fill="black" y="107.87988" xml:space="preserve">k</tspan>
+          <tspan font-family="Aalfons" font-size="10" fill="black" x="0" y="133.31982" xml:space="preserve">        </tspan>
+          <tspan font-family="Aalfons" font-weight="bold" font-size="16" fill="black" y="133.31982" xml:space="preserve">end</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

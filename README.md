@@ -1,11 +1,15 @@
 
 # ![Aalfons Logo](./aalfons.svg)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The choice of the right font is crucial for readability and understanding in many fields, especially for the precise representation of program code and scientific formulas. Just as TeX has become indispensable for typesetting formulas in science, the use of a specially designed font for displaying code and mathematical expressions is equally critical.
+
+For program code, a clearly readable font that ensures a good distinction between characters is essential to avoid errors and to intuitively grasp the structure of the code. Especially in more complex programs, sans-serif fonts can lead to confusion, as the visual differences between characters like “1” and “l” or “O” and “0” are difficult to discern. Serif fonts, on the other hand, provide better readability through their additional strokes, helping to make these distinctions clearer and quicker to identify.
 
 # ![Aalgola Example](./aalgola-example.svg)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Similarly, in mathematical expressions and formulas, where precise representation of symbols and characters is crucial, a specially designed font like Aalfons ensures that mathematical symbols, operators, and numbers are displayed exactly as required by scientific notation. This guarantees not only a clear visual representation but also the correct interpretation of the formulas by the reader.
+
+Therefore, the choice of the right font is not just a matter of aesthetics, but a fundamental requirement to ensure clarity and precision in technical and scientific fields. By using a font specifically tailored to the needs of programming and formula typesetting, the reading flow is improved, and the accuracy of interpretation is significantly enhanced.
 
 # The Aalfons Font Family
 
@@ -23,7 +27,7 @@ Building upon the STIX Fonts, the Aalfons font family is now being implemented. 
 
 ### Display Variants
 
-As mentioned earlier, certain characters are offered in dictation-like variants. This allows, for example, the correct alignment of columns for _b_-adic numbers as well as decimal numbers. This applies equally to the representation of hexadecimal numbers, bit patterns, and the embedding of Base-64 and similarly encoded data, which require the entire ASCII character set.
+As mentioned earlier, certain characters are offered in mono-spaced variants. This allows, for example, the correct alignment of columns for _b_-adic numbers as well as decimal numbers. This applies equally to the representation of hexadecimal numbers, bit patterns, and the embedding of Base-64 and similarly encoded data, which require the entire ASCII character set.
 
 ### Encoding Variants
 

@@ -1,4 +1,8 @@
-# Aalfons Font License
+
+<h1 style="display: flex; align-items: center;" >
+    <img src="../aalfons.svg" alt="Aalfons" ><br>
+    Font License
+</h1>
 
 The Aalfons Font is licensed under the [SIL Open Font License 1.1](./LICENSE.md). 
 

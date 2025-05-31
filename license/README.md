@@ -1,6 +1,6 @@
 
 <h1>
-    <img src="../aalfons.svg" alt="Aalfons" style="height: 75%;"><br>Font License
+    <img src="../aalfons.svg" alt="Aalfons"><br>Font License
 </h1>
 
 The Aalfons Font is licensed under the [SIL Open Font License 1.1](./LICENSE.md). 

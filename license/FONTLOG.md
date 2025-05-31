@@ -1,4 +1,7 @@
-# FONTLOG for Aalfons Font
+
+<h1>
+    <img src="../aalfons.svg" alt="Aalfons"><br>Font Log
+</h1>
 
 ## Version 0.1 (2017-07-07)
 - Initial release based on the STIX 2.0 font family.

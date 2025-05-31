@@ -3,7 +3,7 @@ Copyright (c) 2001-2021 _The STIX Fonts Project Authors_ (https://github.com/sti
 with Reserved Font Name "_TM Math_".  
 STIX Fonts™ is a trademark of The Institute of Electrical and Electronics Engineers, Inc.
 
-Copyright (c) 2011-2025, _Aalgolab GmbH_ (https://aalgolab.com),  
+Copyright (c) 2017-2025, _Aalgolab GmbH_ (https://aalgolab.com),  
 with Reserved Font Name _Aalfons_.  
 &nbsp;
 
